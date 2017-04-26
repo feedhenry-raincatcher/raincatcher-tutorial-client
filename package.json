@@ -12,7 +12,9 @@
     "fh-wfm-mediator": "0.0.14",
     "lodash": "^4.16.4",
     "moment": "^2.15.1",
-    "wfm-tutorial-module": "0.0.1"
+    "raincatcher-modrain": "0.0.1-pre.1",
+    "raincatcher-tutorial-module": "0.0.2-pre.1",
+    "raincatcher-tutorial-module-angular": "0.0.1-pre.1"
   },
   "devDependencies": {
     "browserify-ngannotate": "^2.0.0",
